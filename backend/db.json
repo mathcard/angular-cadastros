@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Sweet fresh stawberry",
+      "price": 29.45
+    },
+    {
+      "id": 3,
+      "name": "Asparagus",
+      "price": 18.95
+    },
+    {
+      "id": 4,
+      "name": "Green smoothie",
+      "price": 17.68
+    },
+    {
+      "id": 5,
+      "name": "Raw legums",
+      "price": 17.11
+    },
+    {
+      "id": 6,
+      "name": "Baking cake",
+      "price": 11.14
+    },
+    {
+      "id": 7,
+      "name": "Pesto with basil",
+      "price": 18.19
+    },
+    {
+      "id": 8,
+      "name": "Hazelnut in black ceramic bowl",
+      "price": 27.35
+    },
+    {
+      "id": 9,
+      "name": "Fresh stawberry",
+      "price": 28.59
+    },
+    {
+      "id": 10,
+      "name": "Limão",
+      "price": 15.79
+    },
+    {
+      "name": "Mouse",
+      "price": 129.9,
+      "id": 11
+    }
+  ]
+}

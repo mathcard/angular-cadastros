@@ -1,0 +1,11 @@
+ng g c components/template/header
+ng g c components/template/footer
+ng g c components/template/nav
+ng g c views/home
+ng g c views/product-crud
+ng g d directives/red
+ng g c components/product/product-create
+ng g s components/product/product
+ng g c components/product/product-read
+ng generate @angular/material:table product-read2 (example material table)
+ng g c components/product/product-update
